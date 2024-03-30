@@ -22,5 +22,17 @@
         "country_name": "Nigeria",
         "capital": "Abuja",
         "provinces": ["Lagos", "Kano", "Ibadan", "Abuja", "Port Harcourt"]
+    },
+    {   
+        "id": 5,
+        "country_name": "Ghana",
+        "capital": "Accra",
+        "provinces": ["Accra", "Kumasi", "Tamale"]
+    },
+    {   
+        "id": 6,
+        "country_name": "Egypt",
+        "capital": "Cairo",
+        "provinces": ["Cairo", "Alexandria", "Giza"]
     }
 ]
