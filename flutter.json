@@ -10,5 +10,17 @@
         "country_name": "South-Africa",
         "capital": "Pretoria",
         "provinces": ["Cape Town", "Kimberley", "Mbombela", "Johannesburg", "Bhisho"]
+    },
+    {   
+        "id": 3,
+        "country_name": "Kenya",
+        "capital": "Nairobi",
+        "provinces": ["Nairobi", "Mombasa", "Kisumu", "Nakuru", "Eldoret"]
+    },
+    {   
+        "id": 4,
+        "country_name": "Nigeria",
+        "capital": "Abuja",
+        "provinces": ["Lagos", "Kano", "Ibadan", "Abuja", "Port Harcourt"]
     }
 ]
